@@ -10,6 +10,6 @@ Open `index.html` in a browser or serve this directory using any static web serv
 
 The root `index.html` uses relative paths for the project's CSS and JavaScript and is ready for GitHub Pages. In repository Settings → Pages, choose a published branch and `/ (root)` as the source. Alternatively, deploy the root directory via a Pages workflow.
 
-The logo and original business photographs are referenced from the official website because the development environment could not download them. They require network access and remain subject to the original owner's rights and availability. Google Fonts are also loaded remotely.
+The original business logo and photographs are stored locally in `assets/`, sourced from the official website via image search. They remain subject to the original owner's rights. Google Fonts are loaded remotely, with sans-serif fallbacks.
 
 This is an independent design demo, not an official Dryer Vent Wizard website.
